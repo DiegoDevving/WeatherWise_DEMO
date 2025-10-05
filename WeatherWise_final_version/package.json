@@ -1,0 +1,11 @@
+{
+  "name": "weatherwise-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix WeatherWise run dev",
+    "build": "npm --prefix WeatherWise run build",
+    "lint": "npm --prefix WeatherWise run lint",
+    "start": "npm --prefix WeatherWise run start",
+    "install": "npm --prefix WeatherWise install"
+  }
+}
